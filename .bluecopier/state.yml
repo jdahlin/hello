@@ -1,0 +1,12 @@
+blueprints:
+  includes:
+  - name: editorconfig
+  - name: license
+  - name: ruff
+  - name: black
+  - name: mypy
+  - name: pytest
+  - name: devcontainer
+  - name: gitignore
+  - name: github
+  master: python
